@@ -1,0 +1,252 @@
+{
+  "info": {
+    "salon": {
+      "store"     : "Royal Nail Bar",
+      "slug"      : "Royal-nail-bar",
+      "phone"     : "(510) 398-8941",
+      "email"     : "ngo4nnguy3n94@gmail.com",
+      "address"   : "22600 Foothill Blvd Hayward, California 94541",
+      "district"  : "Hayward",
+      "state"     : "California 94541",
+      "time_1"    : "[Mon - Sat] 09:30 AM - 07:00 PM",
+      "time_2"    : "[Sun] 10:00 AM - 05:00 PM"
+      
+    },
+    "social": {
+      "facebook"  : "https://www.facebook.com/royalnailbar.ca",
+      "instagram" : "https://www.instagram.com/royalnailbarhayward",
+      "google"    : "https://goo.gl/maps/tWzBj9hpGWTmLNeN6",
+      "booking"   : "https://www.lldtek.com/salon/appt/NTUwNjR8cm95YWwyMjYwMHxDQV8wODQ5N3wyZmYwYWIyYzQwYzliMTRiNmM0MDJjZjBmODI0M2U3NQ==",
+      "maps"      : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3157.942598305562!2d-122.08515596859489!3d37.67405656105059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f93b1a20137e1%3A0xb98cb2edcede1847!2sRoyal%20Nail%20Bar!5e0!3m2!1sen!2s!4v1675831841642!5m2!1sen!2s"
+    },
+    "color": {
+      "primary"               : "#1A1A1A",
+      "primary_light"         : "#727272",
+      "primary_hover"         : "#87DD2C",
+      "secondary"             : "#90C73E",
+      "secondary_hover"       : "#88BC3A",
+      "text_primary"          : "#FFFFFF",
+      "text_primary_hover"    : "#FFFFFF",
+      "text_secondary"        : "#FFFFFF",
+      "text_secondary_hover"  : "#FFFFFF",
+      "text_title"            : "#429D64",
+      "text_title_hover"      : "#90C73E"
+    },
+    "debug": "on",
+    "path_image": "images",
+    "domain": "https://trendynailsaz.com/"
+  },
+  "gallery": [
+    {
+      "name": "gallery-01",
+      "url": "Royal-nail-bar-gallery-01.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-02",
+      "url": "Royal-nail-bar-gallery-02.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-03",
+      "url": "Royal-nail-bar-gallery-03.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-04",
+      "url": "Royal-nail-bar-gallery-04.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-05",
+      "url": "Royal-nail-bar-gallery-05.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-06",
+      "url": "Royal-nail-bar-gallery-06.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-07",
+      "url": "Royal-nail-bar-gallery-07.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-08",
+      "url": "Royal-nail-bar-gallery-08.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-09",
+      "url": "Royal-nail-bar-gallery-09.jpg",
+      "home": false
+    }  
+
+  ],
+  "specialties": [
+    {
+      "name": "specialties-02",
+      "url": "Royal-nail-bar-gallery-08.jpg"
+    },
+    {
+      "name": "specialties-03",
+      "url": "Royal-nail-bar-gallery-07.jpg"
+    },
+    {
+      "name": "specialties-04",
+      "url": "Royal-nail-bar-gallery-06.jpg"
+    },
+    {
+      "name": "specialties-05",
+      "url": "Royal-nail-bar-gallery-05.jpg"
+    },
+    {
+      "name": "specialties-06",
+      "url": "Royal-nail-bar-gallery-04.jpg"
+    },
+    {
+      "name": "specialties-07",
+      "url": "Royal-nail-bar-gallery-03.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "Royal-nail-bar-gallery-02.jpg"
+    },
+    {
+      "name": "specialties-09",
+      "url": "Royal-nail-bar-gallery-01.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Service A",
+      "src": "Trendy-nails-lashes-service-01.jpg",
+      "home": true
+    },
+    {
+      "name": "Service B",
+      "src": "Trendy-nails-lashes-service-02.jpg",
+      "home": true
+    },
+    {
+      "name": "Service C",
+      "src": "Trendy-nails-lashes-service-03.jpg",
+      "home": true
+    }
+  
+  ],
+  "services": [
+    {
+      "category": "Service A",
+      "name": "Service A-01",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    {
+      "category": "Service A",
+      "name": "Service A-02",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    {
+      "category": "Service A",
+      "name": "Service A-03",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    {
+      "category": "Service A",
+      "name": "Service A-04",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    {
+      "category": "Service A",
+      "name": "Service A-05",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "Service B",
+      "name": "Service B-01",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    {
+      "category": "Service B",
+      "name": "Service B-02",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    {
+      "category": "Service B",
+      "name": "Service B-03",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    {
+      "category": "Service B",
+      "name": "Service B-04",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    {
+      "category": "Service B",
+      "name": "Service B-05",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    
+    
+
+    {
+      "category": "Service C",
+      "name": "Service C-01",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    {
+      "category": "Service C",
+      "name": "Service C-02",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    {
+      "category": "Service C",
+      "name": "Service C-03",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    {
+      "category": "Service C",
+      "name": "Service C-04",
+      "url": "",
+      "price": 0,
+      "plus": false
+    },
+    {
+      "category": "Service C",
+      "name": "Service C-05",
+      "url": "",
+      "price": 0,
+      "plus": false
+    }
+  ]
+}
